@@ -1,6 +1,6 @@
 # ADM-HW4
 
-Members of Group 12:   
+Group 12:   
 - Paolo Zilviano (zilviano.1916518@studenti.uniroma1.it)
 - Ana Carina Branescu (ana.branescu03@gmail.com)
 - Domenico Mangieri (mangieri.1883920@studenti.uniroma1.it)
